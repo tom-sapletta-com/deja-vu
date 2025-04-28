@@ -191,9 +191,9 @@ Myślę o tym często. Czy ty też czasem zastanawiasz się, dlaczego w tak wiel
 
 Lubię, gdy dziadek opowiada mi historie. Zwłaszcza te o księżniczkach. Ale historie o zmieniającym się świecie chyba nie są jego ulubione. Gdy o nich mówi, jego oczy są smutne, jakby widział je już zbyt wiele razy.
 
-![1.png](1.png)
-
 # Rozdział 1: Zabawki, których nie mogę dotknąć
+
+![1.png](1.png)
 
 Mam sześć lat. Mój kolega Staś ma świecący tablet, małego robota, który chodzi i mówi, i holograficzne gry, które wypełniają cały pokój kolorowymi światami. Mogę patrzeć, ale nie wolno mi dotykać. Mama mówi, że nie stać nas na takie zabawki.
 
@@ -288,7 +288,6 @@ Spojrzałam na nasze drony latające w powietrzu, tworząc wspólnie obraz, któ
 "Wiesz co, Kuba? Ja myślę, że najfajniejsze jest to, że możemy razem tworzyć coś większego niż to, co każdy mógłby zrobić sam."
 
 Czy kiedyś doświadczyłeś radości z tworzenia czegoś wspólnie? Czegoś, czego nigdy nie mógłbyś osiągnąć sam? Jak się wtedy czułeś?
-
 
 # Rozdział 2: Zimno w domu cioci Ani
 
@@ -407,7 +406,6 @@ Ciocia uśmiechnęła się.
 Ciocia znowu się uśmiecha, a jej mieszkanie jest ciepłe. Zamiast przyciemnionych świateł, salon rozjaśniają kolorowe lampy. Zastanawiam się, czy ciepło pochodzi tylko z lepszego systemu grzewczego, czy też z tego, że ludzie przestali być sami ze swoimi problemami.
 
 A ty, gdzie szukasz ciepła w zimne dni? W technologii czy w ludziach wokół ciebie?
-
 
 # Rozdział 3: Dlaczego pan robot dostał pracę taty?
 
@@ -739,9 +737,9 @@ Może właśnie o to chodzi w integracji, pomyślałam. Nie o to, by wszyscy sta
 
 A jak ty postrzegasz prawdziwą integrację? Czy oznacza ona zatarcie różnic, czy raczej ich twórcze wykorzystanie dla dobra wszystkich?
 
-![5.png](5.png)
-
 # Rozdział 5: Babcia mówi, że lekarze są dla bogatych
+
+![5.png](5.png)
 
 Babcia potrzebuje operacji. Mama płacze, bo to bardzo drogo kosztuje, a nasze ubezpieczenie tego nie pokrywa. Mam już dwanaście lat i rozumiem więcej o świecie – szczególnie o tym, jak pieniądze dzielą ludzi nawet w sprawach życia i śmierci.
 
@@ -867,9 +865,9 @@ Wieczorem znalazłam mamę w kuchni – płakała, ale tym razem ze szczęścia.
 
 A ty, czy wierzysz, że jednostka może zmieniać świat? I czy wiek ma w tym znaczenie?
 
-![6.png](6.png)
-
 # Rozdział 6: Niewidzialni ludzie
+
+![6.png](6.png)
 
 Pan Henryk z parteru nie istnieje – tak mówi mama. To znaczy, istnieje naprawdę, widujemy go codziennie, ale nie ma go w systemach. Nie ma konta, karty chipowej, cyfrowego ID. Jest "cyfrowym pariasem". Mam już czternaście lat i zaczynam rozumieć, jak niebezpieczne może być życie na marginesie cyfrowego świata.
 
@@ -1027,9 +1025,9 @@ W końcu, po długich negocjacjach i kilku spotkaniach, wypracowaliśmy kompromi
 
 Czy uważasz, że lepiej jest zmieniać system od wewnątrz czy budować alternatywy poza nim? A może prawdziwa zmiana wymaga obu tych strategii?
 
-![7.png](7.png)
-
 # Rozdział 7: Ludzie z numerami
+
+![7.png](7.png)
 
 Mam piętnaście lat. Świat wokół mnie zmienia się coraz szybciej, a ja staram się nadążyć. Dziś w szkole dowiedzieliśmy się o nowym systemie identyfikacji obywateli, który ma zastąpić tradycyjne imiona i nazwiska.
 
@@ -1125,9 +1123,9 @@ Jej słowa głęboko mnie poruszyły. W drodze do domu zastanawiałam się, jak 
 
 Czy uważasz, że w erze cyfrowej możliwe jest zachowanie pełni naszego człowieczeństwa i tożsamości? Czy istnieje złoty środek między bezpieczeństwem a wolnością osobistą?
 
-![8.png](8.png)
-
 # Rozdział 8: Bezpłciowi następcy
+
+![8.png](8.png)
 
 Mam szesnaście lat. Świat zaludniają już nie tylko ludzie, ale i zaawansowane roboty humanoidalne. Najbardziej uderzające jest to, że te roboty nie mają płci – są identyfikowane wyłącznie przez numery i funkcje. A ludzie zdają się to akceptować bez mrugnięcia okiem.
 
@@ -1239,9 +1237,9 @@ Po debacie rozmawiałam z przyjaciółmi. Zastanawialiśmy się, czy żyjemy w m
 
 Czy dostrzegasz, jak trendy społeczne z przeszłości mogą wpływać na rozwój technologii przyszłości? Czy uważasz, że powinniśmy bardziej świadomie projektować sztuczną inteligencję i roboty, biorąc pod uwagę ich potencjalny wpływ na nasze własne poczucie człowieczeństwa?
 
-![9.png](9.png)
-
 # Rozdział 9: Samotność w tłumie
+
+![9.png](9.png)
 
 Mam siedemnaście lat. Studiuję projektowanie społeczne w programie wczesnym uniwersyteckim. Moi rówieśnicy mają setki wirtualnych znajomych, są podłączeni do sieci przez implanty komunikacyjne i rozszerzoną rzeczywistość, a mimo to większość z nich cierpi na samotność i stany lękowe. Depresja jest epidemią naszego pokolenia, mimo że podobno nigdy nie byliśmy tak połączeni.
 
