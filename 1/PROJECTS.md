@@ -1,5 +1,5 @@
 + [github.com](http://github.com)
-+ [1 ![okladka.png](okladka.png)](http://github.com/1)
++ [1 # Deja-vu](http://github.com/1)
 + [md2pdf <style>](http://github.com/md2pdf)
 + [1 ## Spis treści](http://github.com/1)
 + [1 # Prolog: Pierwsze wspomnienie (2027-2029)](http://github.com/1)

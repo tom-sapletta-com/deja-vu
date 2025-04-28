@@ -1,9 +1,9 @@
 
-![okladka.png](okladka.png)
-
 # Deja-vu
 
-C42913
+![okladka.png](okladka.png)
+
+Autor: C42913
 
 ---
 
