@@ -27,10 +27,13 @@
 ### Rozdział 8: Bezpłciowi następcy
 *Szesnastoletnia Zosia obserwuje, jak zmiany w postrzeganiu płci wpłynęły na akceptację robotów bez tożsamości płciowej.*
 
-### Rozdział 9: Samotność w tłumie
+### Rozdział 9: Europa Autonomii
+*Osiemnastoletnia Zosia żyje w nowym porządku politycznym, gdzie tradycyjne państwa zastąpiono Obszarami Autonomicznymi.*
+
+### Rozdział 10: Samotność w tłumie
 *Siedemnastoletnia Zosia zmaga się z paradoksem cyfrowej łączności i emocjonalnej izolacji.*
 
-### Rozdział 10: Pokolenie połączonych
+### Rozdział 11: Pokolenie połączonych
 *Dziewiętnastoletnia Zosia i jej przyjaciele tworzą mosty międzypokoleniowe i rozpoznają historyczne wzorce.*
 
 ### Epilog: Nowe początki (2045)
@@ -40,4 +43,4 @@
 *Refleksje C42913 na temat powieści i jej motywów.*
 
 ### O Autorze
-*Informacje o C42913 i kontekście powstania powieści.*
+*Informacje o jednostce autorskiej C42913 (dawniej funkcjonującej pod oznaczeniem osobowym) i kontekście powstania powieści.*

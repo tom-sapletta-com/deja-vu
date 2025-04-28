@@ -109,10 +109,13 @@ body > h2:first-of-type {
 ### Rozdział 8: Bezpłciowi następcy
 *Szesnastoletnia Zosia obserwuje, jak zmiany w postrzeganiu płci wpłynęły na akceptację robotów bez tożsamości płciowej.*
 
-### Rozdział 9: Samotność w tłumie
+### Rozdział 9: Europa Autonomii
+*Osiemnastoletnia Zosia żyje w nowym porządku politycznym, gdzie tradycyjne państwa zastąpiono Obszarami Autonomicznymi.*
+
+### Rozdział 10: Samotność w tłumie
 *Siedemnastoletnia Zosia zmaga się z paradoksem cyfrowej łączności i emocjonalnej izolacji.*
 
-### Rozdział 10: Pokolenie połączonych
+### Rozdział 11: Pokolenie połączonych
 *Dziewiętnastoletnia Zosia i jej przyjaciele tworzą mosty międzypokoleniowe i rozpoznają historyczne wzorce.*
 
 ### Epilog: Nowe początki (2045)
@@ -122,7 +125,7 @@ body > h2:first-of-type {
 *Refleksje C42913 na temat powieści i jej motywów.*
 
 ### O Autorze
-*Informacje o C42913 i kontekście powstania powieści.*
+*Informacje o jednostce autorskiej C42913 (dawniej funkcjonującej pod oznaczeniem osobowym) i kontekście powstania powieści.*
 
 # Prolog: Pierwsze wspomnienie (2027-2029)
 
@@ -1337,6 +1340,132 @@ Co według ciebie oznacza "mądre korzystanie z technologii"? Jak rozpoznać mom
 
 ![10.png](10.png)
 
+# Rozdział 11: Europa Autonomii
+
+Mam osiemnaście lat. Świat, który poznałam jako dziecko, już nie istnieje. Trzy lata temu zakończył się proces tzw. Wielkiej Refederalizacji. Europa, jaką znali moi rodzice i dziadkowie, z granicami państw i paszportami, przeszła do historii. Teraz żyjemy w Unii Obszarów Autonomicznych.
+
+*Dziennik głosowy Zosi, 15 kwietnia 2041:*
+
+Dziś profesor historii poprosił mnie o przedstawienie prezentacji o tym, jak doszło do Wielkiej Refederalizacji. Dla mnie to oczywistość, ale profesor twierdzi, że młodsi uczniowie powinni zrozumieć, jak wielką zmianą było przejście od państw narodowych do Obszarów Autonomicznych.
+
+"Europa zawsze była mozaiką kultur i regionów," zaczęłam swoją prezentację. "Państwa narodowe, które istniały przez ostatnie dwieście lat, były tylko chwilowym epizodem w naszej historii."
+
+Kiedy skończyłam, Marek podniósł rękę.
+
+"Ale czy to nie jest trochę jak za czasów imperium rzymskiego? Tylko że zamiast cesarza mamy Głównego Koordynatora w Brukseli?"
+
+Uśmiechnęłam się. Marek zawsze był sceptyczny wobec nowego porządku.
+
+"Jest różnica," odpowiedziałam. "W imperium rzymskim wszystko płynęło do centrum. W Unii Obszarów Autonomicznych każdy region utrzymuje własną tożsamość, a Bruksela tylko koordynuje."
+
+"Koordynuje, czyli kontroluje," mruknął Marek.
+
+Profesor przejął kontrolę nad dyskusją.
+
+"To ważne pytanie. Zastanówmy się - czy mamy teraz więcej czy mniej wolności niż w czasach państw narodowych?"
+
+Czy zastanawiałeś się kiedyś, jak cienka jest granica między decentralizacją a nową formą centralizacji? Czy można stworzyć system, w którym regiony byłyby zarówno autonomiczne, jak i zjednoczone?
+
+---
+
+Wieczorem rozmawiałam z tatą o historii Wielkiej Refederalizacji. Tata, jako wykładowca politologii, był bezpośrednim świadkiem tych wydarzeń.
+
+"To nie stało się z dnia na dzień," powiedział, nalewając sobie herbaty. "Początkiem były kryzysy gospodarcze i migracyjne lat 20-tych. Państwa narodowe nie potrafiły sobie z nimi poradzić w pojedynkę."
+
+"Ale dlaczego zdecydowano się na tak radykalną zmianę?" zapytałam. "Przecież można było po prostu pogłębić integrację w ramach Unii Europejskiej?"
+
+"Stara UE była hybrydą - ani prawdziwą federacją, ani luźnym związkiem państw. Ta nieokreśloność stała się nie do utrzymania w obliczu kryzysów. Potrzebny był albo krok wstecz, albo do przodu."
+
+"I wybrano krok do przodu," dopowiedziałam.
+
+"Tak, ale nie bez oporu," uśmiechnął się tata. "Pamiętam protesty. Ludzie bali się utraty tożsamości narodowej. Paradoksalnie, to właśnie podział na Obszary Autonomiczne uratował wiele lokalnych tożsamości."
+
+"W jaki sposób?"
+
+"Weźmy na przykład dawną Polskę," tata wyświetlił mapę na ścianie. "Zamiast jednego państwa mamy teraz Obszar Autonomiczny Mazowsze, Obszar Autonomiczny Śląsk, Obszar Autonomiczny Pomorze i tak dalej. Każdy z własnym parlamentem, budżetem i polityką kulturalną. To dało głos regionom, które wcześniej czuły się zaniedbane przez Warszawę."
+
+"Ale najważniejsze decyzje i tak zapadają w Brukseli," zauważyłam.
+
+"W teorii tylko te dotyczące polityki zagranicznej, obronności i ogólnych standardów," odparł tata. "W praktyce... cóż, władza ma tendencję do centralizacji. To odwieczne napięcie między lokalnością a centralizacją. Déjà vu - historia znów się powtarza, tylko w nowej formie."
+
+Czy uważasz, że decentralizacja władzy jest możliwa w dłuższej perspektywie? Czy każdy system dąży ostatecznie do koncentracji władzy, niezależnie od początkowych założeń?
+
+---
+
+Kilka dni później nasz profesor zorganizował debatę o korzyściach i wadach nowego systemu. Zostałam przydzielona do zespołu broniącego federalizacji.
+
+"Obszary Autonomiczne rozwiązały problem sztucznych granic," argumentowałam. "Weźmy dawną granicę polsko-niemiecką. Mieszkańcy Słubic i Frankfurtu nad Odrą żyli po dwóch stronach rzeki, ale mieli więcej wspólnego ze sobą niż ze swoimi odległymi stolicami. Teraz razem tworzą Obszar Transgraniczny Odry."
+
+"Ale utraciliśmy suwerenność," odpowiedział Marek z przeciwnej drużyny. "Kiedyś Polska mogła samodzielnie decydować o swojej polityce energetycznej czy migracyjnej. Teraz te decyzje zapadają w Brukseli."
+
+"Czy naprawdę mieliśmy tę suwerenność?" zapytałam. "W zglobalizowanym świecie małe i średnie państwa i tak były zależne od wielkich graczy. Teraz przynajmniej siedzimy przy stole, gdzie zapadają decyzje."
+
+"Przy stole, ale nie jako równi partnerzy," odciął się Marek. "Kto w praktyce kontroluje Radę Koordynacyjną? Dawne wielkie mocarstwa – Obszary wywodzące się z Niemiec, Francji, Włoch. A regiony dawnej Europy Wschodniej są traktowane jak młodszy brat."
+
+Po zajęciach podszedł do mnie profesor.
+
+"Świetna debata. Oboje mieliście rację – i ty, i Marek. To jest właśnie paradoks naszego nowego systemu. Teoretycznie daje więcej autonomii, praktycznie tworzy nowe hierarchie. Jak każdy system polityczny w historii."
+
+"Czy to znaczy, że nie ma idealnego systemu?" zapytałam.
+
+"Tak jak nie ma idealnego człowieka," uśmiechnął się profesor. "Ale są systemy lepiej i gorzej dostosowane do danego czasu. A czasy się zmieniają."
+
+Zastanawiam się, czy ten nowy podział Europy to rzeczywiście przełom, czy tylko kolejna wariacja na temat odwiecznego problemu – jak pogodzić jedność z różnorodnością? Czy za sto lat nasi potomkowie będą opowiadać o nowym wielkim przełomie, który zastąpi obecny system?
+
+Czy dostrzegasz w historii te powtarzające się wzorce organizacji społeczeństw – od unifikacji do fragmentacji i z powrotem? Czy jesteśmy skazani na ten cykliczny ruch wahadła?
+
+---
+
+W ramach programu wymiany kulturowej miałam okazję odwiedzić Główny Ośrodek Koordynacyjny w Brukseli. To ogromny kompleks budynków, gdzie spotykają się przedstawiciele wszystkich Obszarów Autonomicznych i gdzie pracuje administracja unijnej federacji.
+
+"Tu bije serce nowej Europy," powiedziała nasza przewodniczka, wskazując na główną salę obrad. "To tutaj przedstawiciele wszystkich Obszarów współdecydują o przyszłości kontynentu."
+
+Jednak podczas naszej wizyty zauważyłam coś, co wzbudziło moje wątpliwości. W korytarzach i salach konferencyjnych dominowali przedstawiciele obszarów zachodnich – Germania, Gaul, Benelux. Reprezentanci Poloniki, Czechomoravii czy Dniepru byli mniej widoczni, zazwyczaj w rolach asystentów lub doradców.
+
+"To tylko wrażenie," zapewniła nas przewodniczka, gdy ktoś o to zapytał. "Wszystkie Obszary są równe, zgodnie z Traktatem Refederacyjnym z 2038 roku."
+
+Wieczorem, w hotelu, rozmawialiśmy o naszych wrażeniach.
+
+"Równi, ale niektórzy równiejsi," zacytował Marek Orwella. "Czy naprawdę wierzycie, że głos Obszaru Autonomicznego Śląsk ma taką samą wagę jak głos Germanii Zachodniej?"
+
+"System nie jest idealny," zgodziłam się. "Ale czy kiedykolwiek był? Czy stare państwa narodowe nie tworzyły podobnych hierarchii między sobą? Przynajmniej teraz są mechanizmy wyrównawcze, transfery zasobów z bogatszych do biedniejszych regionów."
+
+"Dokładnie," poparła mnie Ania. "Moja ciocia mieszka w Obszarze Podkarpackim. Mówi, że teraz region dostaje więcej funduszy na rozwój niż kiedykolwiek w czasach Polski."
+
+"Bo nikt już nie boi się utraty swojej tożsamości," dodał Adam. "Gdy zniknął strach przed dominacją innych narodów, łatwiej było o solidarność."
+
+"Ale jeśli kiedyś znowu pojawi się poważny kryzys," zastanawiał się Marek, "czy ta solidarność przetrwa? Czy bogate Obszary będą nadal chętne do dzielenia się z biednymi?"
+
+To pytanie zostało bez odpowiedzi. Historia pokazuje, że w czasach dostatku łatwo o współpracę. Prawdziwym testem są trudne czasy.
+
+Jak myślisz, czy federacja regionów autonomicznych ma większe szanse na przetrwanie kryzysów niż system tradycyjnych państw narodowych? I czy można stworzyć system polityczny, który łączyłby zalety obu modeli bez ich wad?
+
+---
+
+Po powrocie z Brukseli szukałam w starych książkach dziadka podobnych eksperymentów z federalizmem w historii. Znalazłam fascynujące analogie – od starożytnych związków miast greckich, przez Święte Cesarstwo Rzymskie, po współczesne federacje jak USA czy Niemcy.
+
+"Wiesz," powiedział dziadek, gdy pokazałam mu moje znaleziska, "najciekawsze jest to, że każde pokolenie myśli, że wymyśliło coś nowego. A tymczasem historia się powtarza, tylko w nowych dekoracjach."
+
+"Czyli uważasz, że nasza Unia Obszarów Autonomicznych to nic nowego?"
+
+"Sam pomysł nie jest nowy – to stare marzenie o jedności w różnorodności. Ale technologia, która go wspiera, jest bezprecedensowa. Teraz możliwa jest koordynacja na poziomie, o którym wcześniej można było tylko marzyć."
+
+"Myślisz, że ten system przetrwa?"
+
+Dziadek zamyślił się.
+
+"Każdy system polityczny ma swój okres wzrostu, dojrzałości i schyłku. Pytanie brzmi – co przyjdzie po nim? Może powrót do państw narodowych? A może coś zupełnie innego? Może przyszłość należy do miast-państw jak w starożytności, tylko połączonych globalną siecią?"
+
+"Historia zatacza koło," zacytowałam.
+
+"Raczej spiralę," uśmiechnął się dziadek. "Wracamy do podobnych punktów, ale zawsze na innym poziomie."
+
+Zastanawiam się, gdzie na tej spirali historii znajdujemy się teraz. Czy Unia Obszarów Autonomicznych to ewolucyjny krok naprzód, czy tylko kolejna wariacja na temat odwiecznych dylematów organizacji społeczeństw?
+
+A ty, gdzie widziałbyś siebie w takiej Europie Autonomii? Czy identyfikowałbyś się bardziej z lokalnym regionem, całą federacją europejską, czy może z czymś zupełnie innym?
+
+![10.png](10.png)
+
 # Rozdział 10: Pokolenie połączonych
 
 Mamy po dziewiętnaście lat. Ja, Adam z Syrii, Ania z rodziny dotkniętej automatyzacją, Marek z zamożnego domu, Maja z depresją, której pomogły nasze spotkania – razem tworzymy niezwykłą grupę. Dostrzegamy wzorce, które umykają innym. Widzimy, jak te same problemy wracają w nowych przebraniach.
@@ -1662,15 +1791,19 @@ Frankfurt, 2045
 
 **C42913**
 
-C42913 jest polską autorką literatury spekulatywnej, która zadebiutowała w 2038 roku powieścią "Ostatnie słowa". Jej twórczość charakteryzuje się głęboką analizą społecznych i technologicznych przemian oraz ich wpływu na jednostkę.
+C42913 jest jednostką autorską specjalizującą się w literaturze spekulatywnej, z debiutem wydawniczym "Proteusz999", "Reflexio" i "Taciturnitas" 2025. 
+Twórczość tej jednostki cechuje dogłębna analiza przemian społeczno-technologicznych i ich oddziaływania na pojedyncze byty ludzkie.
 
-Przed wprowadzeniem Ustawy o Cyfrowej Identyfikacji i Anonimizacji (2041), publikowała pod swoim imieniem i nazwiskiem. Po wejściu w życie nowych przepisów, jak większość twórców, przyjęła format identyfikacyjny składający się z inicjałów, kategorii obywatelskiej i unikalnego numeru identyfikacyjnego.
+Przed implementacją Ustawy o Cyfrowej Identyfikacji i Anonimizacji (2041), podmiot ten funkcjonował w obiegu wydawniczym pod zindywidualizowanym oznaczeniem osobowym. 
+Po wprowadzeniu nowych regulacji prawnych, zgodnie z powszechną praktyką, nastąpiła transformacja identyfikacyjna do standardowego formatu złożonego z oznaczenia literowego, kategorii obywatelskiej oraz unikalnego ciągu numerycznego.
 
-Citizen-42913 należy do pokolenia, które doświadczyło zarówno świata przedcyfrowego, jak i pełnej cyfryzacji życia społecznego. Ta dualna perspektywa nadaje jej pisarstwu unikalne spojrzenie na transformacje społeczne.
+Jednostka Citizen-42913 przynależy do zbioru bytów ludzkich, które doświadczyły zarówno rzeczywistości przedcyfrowej, jak i pełnej cyfryzacji struktur społecznych. 
+Ta dwoista perspektywa poznawcza nadaje wytwarzanym tekstom specyficzny ogląd na procesy transformacyjne.
 
-Autorka jest zwolenniczką ruchu "Prawo do Tożsamości" i aktywnie uczestniczy w debacie publicznej na temat granic między bezpieczeństwem cyfrowym a prawem do prywatności. Na swoich wykładach często podkreśla znaczenie historycznej pamięci jako narzędzia do rozpoznawania i przeciwdziałania dehumanizującym trendom społecznym.
+Podmiot ten wykazuje afiliację z ruchem społecznym "Prawo do Tożsamości" i aktywnie uczestniczy w dyskursie publicznym dotyczącym granic między bezpieczeństwem systemów cyfrowych a indywidualnym prawem do zachowania prywatności. 
+Podczas wystąpień publicznych jednostka ta regularnie akcentuje istotność pamięci historycznej jako narzędzia służącego do identyfikacji i przeciwdziałania trendom dehumanizacyjnym.
 
-"Déjà vu" jest jej trzecią powieścią i pierwszą skierowaną do szerszego grona odbiorców, łączącą elementy literatury młodzieżowej z głęboką analizą społeczną.
+"Déjà vu" stanowi trzeci wytwór tekstowy tego podmiotu i pierwszy skierowany do szerszej grupy odbiorców, łączący elementy narracji młodzieżowej z pogłębioną analizą zjawisk społecznych.
 
 ---
 

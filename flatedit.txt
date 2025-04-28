@@ -12,6 +12,7 @@ md2pdf/style.md
 1/8.md
 1/9.md
 1/10.md
+1/11.md
 1/Epilog.md
 1/Poslowie.md
 1/Autor.md
