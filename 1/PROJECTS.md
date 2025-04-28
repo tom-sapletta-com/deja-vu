@@ -12,7 +12,7 @@
 + [1 ![7.png](7.png)](http://github.com/1)
 + [1 ![8.png](8.png)](http://github.com/1)
 + [1 ![9.png](9.png)](http://github.com/1)
-+ [1 ![10.png](10.png)](http://github.com/1)
++ [1 ](http://github.com/1)
 + [1 ![10.png](10.png)](http://github.com/1)
 + [1 # Epilog: Nowe początki (2045)](http://github.com/1)
 + [1 # Posłowie](http://github.com/1)

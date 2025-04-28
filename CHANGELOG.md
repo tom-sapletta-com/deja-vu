@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.1.11] - 2025-04-28
+
+### Added
+- Changes in 1/14.png
+
+### Changed
+- Changes in 1/2.png
+- Changes in 1/3.png
+
+### Removed
+- Changes in 1/12.png
+- Changes in deepgram.py
+- Changes in tts.py
+
 ## [0.1.10] - 2025-04-28
 
 ### Added

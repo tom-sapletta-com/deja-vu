@@ -30,71 +30,50 @@ Options:
 ```
 
 For example, try to generate the project documentation with:
-[Proteusz999.pdf](Proteusz999.pdf)
+[Deja-vu.pdf](Deja-vu.pdf)
 ```bash
-md2pdf README.md Proteusz999.pdf
+md2pdf README.md Deja-vu.pdf
 ```
-
-Optionally, you may load an external style:
-
-```bash
-md2pdf --css tests/assets/input.css README.md README.pdf
-```
-
-And/or activate [markdown extras](https://github.com/trentm/python-markdown2/wiki/Extras):
-
-```bash
-md2pdf --css pygments.css -e fenced-code-blocks README.md README.pdf
-```
-
-
-### As a library
-
-You can use `md2pdf` in your python code, like:
-
-```python
-from md2pdf.core import md2pdf
-
-md2pdf(pdf,
-       md=None,
-       raw=None,
-       css=None,
-       base_url=None,
-       extras=[],
-)
-```
-
-Function arguments:
-
-* `pdf`: output PDF file path
-* `raw`: input markdown raw string content
-* `md`: input markdown file path
-* `css`: input styles path (CSS)
-* `base_url`: absolute base path for markdown linked content (as images)
-* `extras`: [markdown extras](https://github.com/trentm/python-markdown2/wiki/Extras) that should be activated
-
-### With Docker
-
-Install [Docker](https://www.docker.com/)
-
-Pull the image:
-
-```bash
-docker pull jmaupetit/md2pdf
-```
-
-Now run your image:
-
-```bash
-docker run --rm \
-    -v $PWD:/app \
-    -u "$(id -u):$(id -g)" \
-    jmaupetit/md2pdf --css styles.css INPUT.MD OUTPUT.PDF
-```
-
 
 ## konwersja pdf na audiobook
 
 + [eBook to Audiobook Converter with Piper-tts](https://huggingface.co/spaces/drewThomasson/ebook2audiobookpiper-tts-GPU/blob/81daf8c663616945516abb0efd3738bc9932c183/README.md)
 
 ![img.png](img/text2audio.png)
+
+
+## upgrade
+
+To upgrade all Python packages in your virtual environment, you can use one of these methods:
+
+1. Using pip:
+```bash
+pip list --outdated  # First, check which packages can be upgraded
+pip list -o | cut -d ' ' -f1 | xargs -n1 pip install -U
+```
+
+2. Alternative method:
+```bash
+pip install --upgrade pip
+pip list --outdated | tail -n +3 | awk '{ print $1 }' | xargs -n1 pip install -U
+```
+
+3. If you're using a requirements file:
+```bash
+pip freeze > requirements.txt
+pip install -r requirements.txt --upgrade
+```
+
+4. For a more interactive approach:
+```bash
+pip list --outdated
+# Then manually upgrade specific packages or all of them
+pip install --upgrade <package_name>
+```
+
+Best practices:
+- Always activate your virtual environment before upgrading
+- Consider creating a backup of your current environment
+- Test your project after upgrading to ensure compatibility
+- For production environments, upgrade packages carefully and test thoroughly
+

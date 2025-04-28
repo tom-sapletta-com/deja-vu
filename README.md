@@ -1,8 +1,6 @@
 
 # Deja-vu
 
-![okladka.png](okladka.png)
-
 Autor: **C42913**
 
 ---
@@ -109,11 +107,11 @@ body > h2:first-of-type {
 ### Rozdział 8: Bezpłciowi następcy
 *Szesnastoletnia Zosia obserwuje, jak zmiany w postrzeganiu płci wpłynęły na akceptację robotów bez tożsamości płciowej.*
 
-### Rozdział 9: Europa Autonomii
-*Osiemnastoletnia Zosia żyje w nowym porządku politycznym, gdzie tradycyjne państwa zastąpiono Obszarami Autonomicznymi.*
-
-### Rozdział 10: Samotność w tłumie
+### Rozdział 9: Samotność w tłumie
 *Siedemnastoletnia Zosia zmaga się z paradoksem cyfrowej łączności i emocjonalnej izolacji.*
+
+### Rozdział 10: Europa Autonomii
+*Osiemnastoletnia Zosia żyje w nowym porządku politycznym, gdzie tradycyjne państwa zastąpiono Obszarami Autonomicznymi.*
 
 ### Rozdział 11: Pokolenie połączonych
 *Dziewiętnastoletnia Zosia i jej przyjaciele tworzą mosty międzypokoleniowe i rozpoznają historyczne wzorce.*
@@ -194,6 +192,7 @@ Myślę o tym często. Czy ty też czasem zastanawiasz się, dlaczego w tak wiel
 Lubię, gdy dziadek opowiada mi historie. Zwłaszcza te o księżniczkach. Ale historie o zmieniającym się świecie chyba nie są jego ulubione. Gdy o nich mówi, jego oczy są smutne, jakby widział je już zbyt wiele razy.
 
 ![1.png](1.png)
+
 # Rozdział 1: Zabawki, których nie mogę dotknąć
 
 Mam sześć lat. Mój kolega Staś ma świecący tablet, małego robota, który chodzi i mówi, i holograficzne gry, które wypełniają cały pokój kolorowymi światami. Mogę patrzeć, ale nie wolno mi dotykać. Mama mówi, że nie stać nas na takie zabawki.
@@ -1338,9 +1337,8 @@ Historia zatacza koło, ale może tym razem w dobrym kierunku. Zamiast być niew
 
 Co według ciebie oznacza "mądre korzystanie z technologii"? Jak rozpoznać moment, gdy to narzędzie zaczyna kontrolować nas, a nie my je?
 
-![10.png](10.png)
 
-# Rozdział 11: Europa Autonomii
+# Rozdział 10: Europa Autonomii
 
 Mam osiemnaście lat. Świat, który poznałam jako dziecko, już nie istnieje. Trzy lata temu zakończył się proces tzw. Wielkiej Refederalizacji. Europa, jaką znali moi rodzice i dziadkowie, z granicami państw i paszportami, przeszła do historii. Teraz żyjemy w Unii Obszarów Autonomicznych.
 
@@ -1466,7 +1464,7 @@ A ty, gdzie widziałbyś siebie w takiej Europie Autonomii? Czy identyfikowałby
 
 ![10.png](10.png)
 
-# Rozdział 10: Pokolenie połączonych
+# Rozdział 11: Pokolenie połączonych
 
 Mamy po dziewiętnaście lat. Ja, Adam z Syrii, Ania z rodziny dotkniętej automatyzacją, Marek z zamożnego domu, Maja z depresją, której pomogły nasze spotkania – razem tworzymy niezwykłą grupę. Dostrzegamy wzorce, które umykają innym. Widzimy, jak te same problemy wracają w nowych przebraniach.
 
@@ -1791,7 +1789,7 @@ Frankfurt, 2045
 
 **C42913**
 
-C42913 jest jednostką autorską specjalizującą się w literaturze spekulatywnej, z debiutem wydawniczym "Proteusz999", "Reflexio" i "Taciturnitas" 2025. 
+C42913 jest jednostką autorską specjalizującą się w literaturze spekulatywnej, z debiutem wydawniczym "Deja-vu", "Reflexio" i "Taciturnitas" 2025. 
 Twórczość tej jednostki cechuje dogłębna analiza przemian społeczno-technologicznych i ich oddziaływania na pojedyncze byty ludzkie.
 
 Przed implementacją Ustawy o Cyfrowej Identyfikacji i Anonimizacji (2041), podmiot ten funkcjonował w obiegu wydawniczym pod zindywidualizowanym oznaczeniem osobowym. 
