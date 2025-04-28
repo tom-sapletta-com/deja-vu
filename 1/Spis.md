@@ -21,23 +21,31 @@
 ### Rozdział 6: Niewidzialni ludzie
 *Czternastoletnia Zosia dostrzega problem cyfrowego wykluczenia i tworzy alternatywne systemy wsparcia.*
 
-### Rozdział 7: Ludzie z numerami
+### Rozdział 7: Jak straciliśmy własny rynek
+*Czternastoipółletnia Zosia poznaje mechanizmy transformacji energetycznej i ekonomicznej, które doprowadziły do dominacji azjatyckich produktów i amerykańskich usług w Europie.*
+
+### Rozdział 8: Ludzie z numerami
 *Piętnastoletnia Zosia doświadcza dehumanizacji przez system numerycznej identyfikacji i odkrywa historyczne paralele.*
 
-### Rozdział 8: Bezpłciowi następcy
+### Rozdział 9: Kto zasługuje na transakcję
+*Szesnastoipółletnia Zosia analizuje wpływ systemów kastowo-genderowo-cybernetycznych i kontrolowanych kryptowalut na stratyfikację społeczną, nawiązując do doświadczeń z Bankiem Czasu.*
+
+### Rozdział 10: Bezpłciowi następcy
 *Szesnastoletnia Zosia obserwuje, jak zmiany w postrzeganiu płci wpłynęły na akceptację robotów bez tożsamości płciowej.*
 
-### Rozdział 9: Samotność w tłumie
+### Rozdział 11: Samotność w tłumie
 *Siedemnastoletnia Zosia zmaga się z paradoksem cyfrowej łączności i emocjonalnej izolacji.*
 
-### Rozdział 10: Europa Autonomii
+### Rozdział 12: Europa Autonomii
 *Osiemnastoletnia Zosia żyje w nowym porządku politycznym, gdzie tradycyjne państwa zastąpiono Obszarami Autonomicznymi.*
 
-### Rozdział 11: Pokolenie połączonych
+### Rozdział 13: Pokolenie połączonych
 *Dziewiętnastoletnia Zosia i jej przyjaciele tworzą mosty międzypokoleniowe i rozpoznają historyczne wzorce.*
 
 ### Epilog: Nowe początki (2045)
 *Dwudziestokilkuletnia Zosia patrzy w przyszłość, przekazując mądrość młodszemu pokoleniu.*
+
+## Dodatki
 
 ### Posłowie
 *Refleksje C42913 na temat powieści i jej motywów.*
