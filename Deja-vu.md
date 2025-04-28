@@ -1288,78 +1288,58 @@ Jej słowa głęboko mnie poruszyły. W drodze do domu zastanawiałam się, jak 
 Czy uważasz, że w erze cyfrowej możliwe jest zachowanie pełni naszego człowieczeństwa i tożsamości? Czy istnieje złoty środek między bezpieczeństwem a wolnością osobistą?
 
 # Rozdział 9. Kto zasługuje na transakcję
-
 Mam szesnaście i pół roku. System społeczny, w którym dorastam, zmienił się tak bardzo, że dziadkowie z trudem go rozpoznają. 
-Nie chodzi tylko o technologię – zmienił się sam sposób, w jaki postrzegamy człowieczeństwo i to na każdy z nas zasługuje.
+Nie chodzi tylko o technologię – zmienił się sam sposób, w jaki postrzegamy człowieczeństwo i kto na co zasługuje.
 
 *Dziennik głosowy Zosi, 17 listopada 2039:*
 
-"Wszystko zaczęło się tak niewinnie," powiedziała dziś ciocia Julia podczas rodzinnego obiadu. "Oceny społeczne miały być tylko zachętą do odpowiedzialnych zachowań. 
-Nikt nie myślał, że staną się nowym system kastowym."
+"Wszystko zaczęło się tak niewinnie," powiedziała dziś ciocia Julia podczas rodzinnego obiadu. "Oceny społeczne miały być tylko zachętą do odpowiedzialnych zachowań. Nikt nie myślał, że staną się nowym system kastowym."
 
-Ciocia Julia, socjolożka specjalizująca się w przemianach społecznych, odwiedziła nas po raz pierwszy od trzech lat. 
-Wróciła właśnie z konferencji w Singapurze, gdzie prezentowała badania nad nowym systemem stratyfikacji społecznej.
+Ciocia Julia, socjolożka specjalizująca się w przemianach społecznych, odwiedziła nas po raz pierwszy od dwóch lat. Wróciła właśnie z konferencji w Singapurze, gdzie prezentowała badania nad nowym systemem stratyfikacji społecznej.
 
 "Ale co dokładnie się zmieniło?" zapytałam. "Dla mnie ten system jest oczywisty, dorastałam z nim."
 
-"To właśnie najciekawsze," odpowiedziała ciocia, nakładając sobie więcej sałatki. "Dla twojego pokolenia to norma. 
-Ale pomyśl – jeszcze dekadę temu nikt nie miał publicznego ratingu społecznego, który decydowałby o możliwościach zawierania transakcji, dostępie do określonych usług czy nawet o tym, gdzie możesz mieszkać."
+"To właśnie najciekawsze," odpowiedziała ciocia, nakładając sobie więcej sałatki. "Dla twojego pokolenia to norma. Ale pomyśl – jeszcze dekadę temu nikt nie miał publicznego ratingu społecznego, który decydowałby o możliwościach zawierania transakcji, dostępie do określonych usług czy nawet o tym, gdzie możesz mieszkać."
 
 "Ale przecież zawsze istnieli ludzie o różnym statusie," zauważyłam. "Bogaci i biedni, wykształceni i niewykształceni."
 
 "Różnica," wtrącił tata, "polega na tym, że wcześniej ten status był płynny i wielowymiarowy. Dziś został zredukowany do pojedynczego numeru, a dodatkowo związany z dostępem do podstawowych funkcji gospodarczych i społecznych."
 
-Pomyślałam o naszej rodzinie. Mamy względnie dobry rating – 7,8 na 10. 
-Wystarczający, by żyć wygodnie, ale niewystarczający, by mieszkać w najlepszych dzielnicach czy uzyskać dostęp do elitarnych szkół. 
-Niedawno odrzucono naszą transakcję przy próbie zakupu premium-dostępu do kursu języka chińskiego. 
-"Niekwalifikujący się odbiorca" – taki komunikat wyświetlił się tacie.
+Pomyślałam o naszej rodzinie. Mamy względnie dobry rating – 7,8 na 10. Wystarczający, by żyć wygodnie, ale niewystarczający, by mieszkać w najlepszych dzielnicach czy uzyskać dostęp do elitarnych szkół. Niedawno odrzucono naszą transakcję przy próbie zakupu premium-dostępu do kursu języka chińskiego. "Niekwalifikujący się odbiorca" – taki komunikat wyświetlił się tacie.
 
-Czy uważasz, że ocena społeczna jest sprawiedliwym narzędziem dystrybucji zasobów i możliwości? 
-Czy system, który kategoryzuje ludzi według określonych parametrów, może kiedykolwiek być naprawdę obiektywny?
+Czy uważasz, że ocena społeczna jest sprawiedliwym narzędziem dystrybucji zasobów i możliwości? Czy system, który kategoryzuje ludzi według określonych parametrów, może kiedykolwiek być naprawdę obiektywny?
 
 ---
 
-Następnego dnia w szkole mieliśmy warsztat o ewolucji systemu płatniczego. 
-Prowadząca, pani Nowak, pokazała nam, jak zmieniał się przez wieki – od wymiany barterowej, przez pieniądz fizyczny, karty płatnicze, aż po dzisiejszy zdecentralizowany system kryptowalut.
+Następnego dnia w szkole mieliśmy warsztat o ewolucji systemu płatniczego. Prowadząca, pani Nowak, pokazała nam, jak zmieniał się przez wieki – od wymiany barterowej, przez pieniądz fizyczny, karty płatnicze, aż po dzisiejszy zdecentralizowany system kryptowalut narodowych.
 
-"Ale czy ten system jest naprawdę zdecentralizowany?" zapytałam, gdy skończyła prezentację. 
-"Skoro każda transakcja musi być zatwierdzona przez algorytm rządowy?"
+"Ale czy ten system jest naprawdę zdecentralizowany?" zapytałam, gdy skończyła prezentację. "Skoro każda transakcja musi być zatwierdzona przez algorytm rządowy?"
 
 Kilka osób w klasie spojrzało na mnie zaskoczonych. Takie pytania rzadko są zadawane.
 
-"To dobre pytanie, Zosiu," odpowiedziała pani Nowak po chwili namysłu. 
-"System jest technologicznie zdecentralizowany, ale regulacyjnie scentralizowany. 
-To pozwala na... hmm... elastyczne zarządzanie gospodarką."
+"To dobre pytanie, Zosiu," odpowiedziała pani Nowak po chwili namysłu. "System jest technologicznie zdecentralizowany, ale regulacyjnie scentralizowany. To pozwala na... hmm... elastyczne zarządzanie gospodarką."
 
 "Czyli blokowanie transakcji, które są uznane za niepożądane?" dopytywałam.
 
-"Raczej kierowanie przepływów finansowych w społecznie korzystne kanały," odpowiedziała dyplomatycznie. 
-"Dzięki temu możemy na przykład promować zachowania ekologiczne, zdrowy styl życia czy edukację."
+"Raczej kierowanie przepływów finansowych w społecznie korzystne kanały," odpowiedziała dyplomatycznie. "Dzięki temu możemy na przykład promować zachowania ekologiczne, zdrowy styl życia czy edukację."
 
 "Albo karać tych, którzy myślą inaczej," szepnął Marek, siedzący obok mnie.
 
-Po lekcji rozmawialiśmy o tym z grupą przyjaciół. 
-Adam podzielił się historią swojego wujka, któremu zablokowano możliwość dokonywania transakcji powyżej 100 kredytów dziennie po tym, jak publicznie skrytykował plan transformacji energetycznej.
+Po lekcji rozmawialiśmy o tym z grupą przyjaciół. Adam podzielił się historią swojego wujka, któremu zablokowano możliwość dokonywania transakcji powyżej 100 kredytów dziennie po tym, jak publicznie skrytykował plan transformacji energetycznej.
 
 "To było 'tymczasowe ograniczenie ze względu na potencjalne ryzyko społeczne'," cytował Adam oficjalne uzasadnienie. "Trwa już trzeci rok."
 
-"A pamiętacie sprawę Banków Czasu?" przypomniała Ania. 
-"Zanim zostały zalegalizowane jako 'eksperymentalny program społeczny', próbowano je całkowicie zablokować jako 'nieautoryzowany system płatniczy'."
+"A pamiętacie sprawę Banków Czasu?" przypomniała Ania. "Zanim zostały zalegalizowane jako 'eksperymentalny program społeczny', próbowano je całkowicie zablokować jako 'nieautoryzowany system płatniczy'."
 
-Przypomniałam sobie, jak dwa lata temu pomagaliśmy panu Henrykowi i innym cyfrowo wykluczonym osobom poprzez nasz lokalny Bank Czasu. 
-Wtedy wydawało się to takie naturalne – lokalna społeczność pomagająca sobie nawzajem, wymieniająca usługi bez pośrednictwa oficjalnych systemów. 
-Dopiero później zdałam sobie sprawę, jak wywrotowa była to idea.
+Przypomniałam sobie, jak dwa lata temu pomagaliśmy panu Henrykowi i innym cyfrowo wykluczonym osobom poprzez nasz lokalny Bank Czasu. Wtedy wydawało się to takie naturalne – lokalna społeczność pomagająca sobie nawzajem, wymieniająca usługi bez pośrednictwa oficjalnych systemów. Dopiero później zdałam sobie sprawę, jak wywrotowa była to idea.
 
-Jak sądzisz, czy społeczeństwo powinno mieć prawo do tworzenia alternatywnych systemów wymiany wartości? 
-Czy państwo powinno kontrolować wszystkie transakcje ekonomiczne pomiędzy obywatelami?
+Jak sądzisz, czy społeczeństwo powinno mieć prawo do tworzenia alternatywnych systemów wymiany wartości? Czy państwo powinno kontrolować wszystkie transakcje ekonomiczne pomiędzy obywatelami?
 
 ---
 
-Wieczorem odwiedziłam dziadków. Mieszkają w starym bloku na obrzeżach miasta, w strefie mieszkalnej klasy C. 
-Ich rating społeczny (5,4) nie pozwala im na przeprowadzkę do lepszej dzielnicy, mimo że finansowo mogliby sobie na to pozwolić.
+Wieczorem odwiedziłam dziadków. Mieszkają w starym bloku na obrzeżach miasta, w strefie mieszkalnej klasy C. Ich rating społeczny (5,4) nie pozwala im na przeprowadzkę do lepszej dzielnicy, mimo że finansowo mogliby sobie na to pozwolić.
 
-"To wszystko przypomina mi czasy, gdy byłem młody," powiedział dziadek, popijając herbatę. 
-"Wtedy też dzielono ludzi na kategorie – partyjnych i bezpartyjnych, działaczy i zwykłych obywateli. Słowa się zmieniły, mechanizm pozostał."
+"To wszystko przypomina mi czasy, gdy byłem młody," powiedział dziadek, popijając herbatę. "Wtedy też dzielono ludzi na kategorie – partyjnych i bezpartyjnych, działaczy i zwykłych obywateli. Słowa się zmieniły, mechanizm pozostał."
 
 "Ale przecież teraz to algorytm ocenia, nie ludzie," zauważyłam. "To powinno być bardziej obiektywne, prawda?"
 
