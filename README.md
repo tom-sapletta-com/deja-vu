@@ -1463,7 +1463,7 @@ A ty, gdzie widziałbyś siebie w takiej Europie Autonomii? Czy identyfikowałby
 
 # Rozdział 11: Pokolenie połączonych
 
-![10.png](10.png)
+![11.png](11.png)
 
 Mamy po dziewiętnaście lat. Ja, Adam z Syrii, Ania z rodziny dotkniętej automatyzacją, Marek z zamożnego domu, Maja z depresją, której pomogły nasze spotkania – razem tworzymy niezwykłą grupę. Dostrzegamy wzorce, które umykają innym. Widzimy, jak te same problemy wracają w nowych przebraniach.
 
