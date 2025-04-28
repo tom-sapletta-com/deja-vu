@@ -10,6 +10,9 @@ md2pdf/style.md
 1/6.md
 1/7.md
 1/8.md
+1/9.md
+1/10.md
 1/Epilog.md
 1/Poslowie.md
+1/Autor.md
 #1/okladka.md

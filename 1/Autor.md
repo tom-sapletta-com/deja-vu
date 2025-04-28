@@ -1,8 +1,6 @@
-
 # O Autorze
 
 **C42913**
-*(dawniej znana jako C42913)*
 
 C42913 jest polską autorką literatury spekulatywnej, która zadebiutowała w 2038 roku powieścią "Ostatnie słowa". Jej twórczość charakteryzuje się głęboką analizą społecznych i technologicznych przemian oraz ich wpływu na jednostkę.
 

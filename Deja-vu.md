@@ -287,6 +287,8 @@ Spojrzałam na nasze drony latające w powietrzu, tworząc wspólnie obraz, któ
 
 Czy kiedyś doświadczyłeś radości z tworzenia czegoś wspólnie? Czegoś, czego nigdy nie mógłbyś osiągnąć sam? Jak się wtedy czułeś?
 
+![2.png](2.png)
+
 # Rozdział 2: Zimno w domu cioci Ani
 
 U cioci Ani zawsze jest zimno. Muszę nosić sweterek, nawet gdy siedzę w domu. Światła są przyciemnione, a ciocia ciągle patrzy na liczniki na ścianie, które świecą się na czerwono. Mam już siedem lat i zaczynam rozumieć, że czerwone liczby nie oznaczają nic dobrego.
@@ -402,6 +404,8 @@ Ciocia uśmiechnęła się.
 Ciocia znowu się uśmiecha, a jej mieszkanie jest ciepłe. Zamiast przyciemnionych świateł, salon rozjaśniają kolorowe lampy. Zastanawiam się, czy ciepło pochodzi tylko z lepszego systemu grzewczego, czy też z tego, że ludzie przestali być sami ze swoimi problemami.
 
 A ty, gdzie szukasz ciepła w zimne dni? W technologii czy w ludziach wokół ciebie?
+
+![3.png](3.png)
 
 # Rozdział 3: Dlaczego pan robot dostał pracę taty?
 
@@ -629,6 +633,8 @@ Tata znów ma iskierkę w oczach, gdy mówi o przyszłości. Nie jest to ta sama
 
 A ty, jak reagujesz na zmiany w swoim życiu? Widzisz w nich zagrożenie czy szansę? I co pomaga ci znaleźć równowagę pomiędzy tymi dwoma perspektywami?
 
+![4.png](4.png)
+
 # Rozdział 4: Nowi przyjaciele z daleka
 
 W mojej klasie pojawiły się nowe dzieci. Mają ciemniejszą skórę i mówią inaczej. Niektórzy rodzice są zdenerwowani. Słyszę jak mówią, że "zabierają nam mieszkania" i "odbierają pracę". Mam dziewięć lat i zaczynam dostrzegać, jak dziwnie dorośli podchodzą do nowych osób.
@@ -729,6 +735,7 @@ Może właśnie o to chodzi w integracji, pomyślałam. Nie o to, by wszyscy sta
 
 A jak ty postrzegasz prawdziwą integrację? Czy oznacza ona zatarcie różnic, czy raczej ich twórcze wykorzystanie dla dobra wszystkich?
 
+![5.png](5.png)
 
 # Rozdział 5: Babcia mówi, że lekarze są dla bogatych
 
@@ -855,6 +862,8 @@ Wieczorem znalazłam mamę w kuchni – płakała, ale tym razem ze szczęścia.
 "Że się myliłam," odpowiedziała z uśmiechem. "Bo ty pokazałaś, że nawet dwunastolatka może zacząć rewolucję."
 
 A ty, czy wierzysz, że jednostka może zmieniać świat? I czy wiek ma w tym znaczenie?
+
+![6.png](6.png)
 
 # Rozdział 6: Niewidzialni ludzie
 
@@ -1014,7 +1023,221 @@ W końcu, po długich negocjacjach i kilku spotkaniach, wypracowaliśmy kompromi
 
 Czy uważasz, że lepiej jest zmieniać system od wewnątrz czy budować alternatywy poza nim? A może prawdziwa zmiana wymaga obu tych strategii?
 
-# Rozdział 7: Samotność w tłumie
+![7.png](7.png)
+
+# Rozdział 7: Ludzie z numerami
+
+Mam piętnaście lat. Świat wokół mnie zmienia się coraz szybciej, a ja staram się nadążyć. Dziś w szkole dowiedzieliśmy się o nowym systemie identyfikacji obywateli, który ma zastąpić tradycyjne imiona i nazwiska.
+
+*Dziennik głosowy Zosi, 7 marca 2038:*
+
+Pani od edukacji obywatelskiej przedstawiła nam dziś projekt nowej ustawy. Nazwała to "rewolucją w bezpieczeństwie cyfrowym". Od przyszłego roku wszyscy obywatele zamiast nazwisk będą używać kodów identyfikacyjnych. Dla zwiększenia prywatności, mówili. Dla ochrony przed kradzieżą tożsamości.
+
+"Czy to znaczy, że nie będę już Zosią Kowalską?" zapytałam podczas lekcji.
+
+Pani Nowak – czy raczej, jak sama zażartowała, wkrótce "Edukator-39218" – uśmiechnęła się łagodnie. "Oczywiście, że nadal będziesz Zosią dla rodziny i przyjaciół. Ale w oficjalnych dokumentach, systemach cyfrowych i publicznych bazach danych staniesz się po prostu numerem."
+
+"Numerem," powtórzyłam. "Jak produkty w sklepie."
+
+"To nie tak," zaprotestowała pani Nowak. "To dla waszego bezpieczeństwa. W świecie, gdzie wszystko jest cyfrowe, imiona i nazwiska są zbyt łatwe do wykorzystania przez cyberprzestępców."
+
+Po lekcji rozmawialiśmy o tym z Adamem i Mają w drodze do domu.
+
+"Mam złe przeczucia," powiedział Adam. "Mój dziadek opowiadał, jak w Syrii przed wojną zaczęli identyfikować ludzi według grup etnicznych i religijnych. To nie skończyło się dobrze."
+
+"Ale to przecież zupełnie co innego," zaprotestowała Maja. "Tu chodzi tylko o bezpieczeństwo cyfrowe."
+
+"Czy na pewno?" zapytałam. "Bo mnie to przypomina coś, o czym opowiadał dziadek..."
+
+Czy zauważasz podobieństwa między współczesnymi praktykami a historycznymi przypadkami dehumanizacji? Jak łatwo w imię bezpieczeństwa możemy przekroczyć granicę, za którą człowiek staje się jedynie numerem?
+
+---
+
+Wieczorem zapytałam dziadka o jego skojarzenia z zastępowaniem nazwisk numerami. Zbladł i długo milczał. W końcu wstał i pokazał mi stary album ze zdjęciami.
+
+"Twoja prababcia przeżyła obóz koncentracyjny w Auschwitz," powiedział cicho, pokazując czarno-białe zdjęcie wychudzonej kobiety z wytatuowanym numerem na przedramieniu. "Tam też ludzie przestawali być ludźmi, a stawali się numerami."
+
+"Ale teraz jest inaczej, prawda?" zapytałam niepewnie. "To dla naszego dobra."
+
+Dziadek westchnął głęboko.
+
+"Zosiu, prawie zawsze, gdy odbierano ludziom imiona i dawano numery, mówiono, że to dla ich dobra. Dla porządku. Dla bezpieczeństwa. Dla efektywności."
+
+"Ale przecież Polska to demokratyczny kraj. Nie jesteśmy w obozie..."
+
+"I dlatego tak ważne jest, byśmy pamiętali historię," przerwał mi dziadek. "By rozpoznawać niebezpieczne wzorce, zanim się rozwiną. Obozy nie powstały w jeden dzień. To był proces. Najpierw klasyfikowanie ludzi, potem nadawanie im numerów, potem stopniowe odbieranie praw..."
+
+"Więc uważasz, że to pierwszy krok do czegoś gorszego?" zapytałam, czując rosnący niepokój.
+
+"Niekoniecznie," odpowiedział dziadek po chwili namysłu. "Historia nie musi się powtarzać dokładnie. Ale zawsze, gdy widzisz trend w kierunku odpersonalizowania ludzi, powinieneś być czujny."
+
+Czy zgadzasz się z dziadkiem Zosi? Jakie zagrożenia widzisz w zastępowaniu osobistych tożsamości kodami cyfrowymi? Czy istnieje sposób na pogodzenie bezpieczeństwa cyfrowego z zachowaniem ludzkiej godności?
+
+---
+
+W szkole utworzyliśmy nieformalną grupę dyskusyjną na temat nowego systemu identyfikacji. Zaskoczyło mnie, jak wielu uczniów widziało w tym tylko praktyczne udogodnienie, a nie potencjalne zagrożenie.
+
+"Ale zobaczcie, co stało się po Wielkim Wycieku Danych w 2036 roku," argumentował Marek. "Miliony ludzi straciły swoje tożsamości. Przestępcy brali na nich kredyty, publikowali w ich imieniu. Numery zamiast nazwisk to ochrona."
+
+"Jeśli chodzi tylko o ochronę, dlaczego nie możemy używać pseudonimów?" zapytała Ania. "Czegoś, co wciąż brzmi ludzko?"
+
+"Bo pseudonimy też można ukraść," odpowiedział Marek. "Kod alfanumeryczny jest bezpieczniejszy."
+
+"A czy zauważyliście," wtrąciłam, "że projekt ustawy przewiduje również zdjęcie odcisków palców i skanów tęczówki od wszystkich obywateli? To nie tylko o zmianę nazwisk na numery."
+
+W sali zapadła cisza. Adam przerwał ją:
+
+"Mój ojciec mówi, że to jak w Syrii przed rewolucją. Zaczęło się od 'środków bezpieczeństwa', a skończyło na śledzeniu każdego kroku obywateli."
+
+Pan Adam, nasz nauczyciel historii, który przysłuchiwał się dyskusji, postanowił się włączyć:
+
+"Czy wiecie, że podczas II wojny światowej, jeszcze przed obozami koncentracyjnymi, Niemcy wprowadzili kompleksowy system identyfikacji i ewidencji obywateli? Używali do tego zaawansowanych jak na tamte czasy maszyn IBM, które sortowały ludzi według różnych kategorii."
+
+"Ale przecież technologia jest neutralna," zaprotestował Marek. "To ludzie decydują, jak jej użyć."
+
+"Dokładnie," zgodził się pan Adam. "I dlatego tak ważne jest, byśmy jako społeczeństwo dyskutowali o granicach jej stosowania. Historia nie zawsze się powtarza, ale często rymuje."
+
+Historia rymująca się – to określenie zostało ze mną. Czy dostrzegasz takie "rymy" we współczesnym świecie? Jakie historyczne lekcje powinniśmy pamiętać, wprowadzając nowe technologie identyfikacji i nadzoru?
+
+---
+
+Tydzień później w wiadomościach ogłoszono, że projekt ustawy będzie konsultowany społecznie. Rodzice byli zaproszeni na spotkanie w szkole. Niespodziewanie, zostałam poproszona, by przedstawić perspektywę młodzieży.
+
+"Nie jesteśmy przeciwko zwiększeniu bezpieczeństwa cyfrowego," powiedziałam, stojąc przed rodzicami i przedstawicielami lokalnych władz. "Ale wierzymy, że można to osiągnąć bez odbierania ludziom ich tożsamości."
+
+Przedstawiłam alternatywny projekt opracowany przez naszą grupę: system wielopoziomowej tożsamości, gdzie obywatele zachowywaliby swoje imiona i nazwiska, ale mieliby również kody dostępu do różnych systemów.
+
+"Historia uczy nas, że dehumanizacja często zaczyna się od pozornie niewinnych zmian administracyjnych," kontynuowałam. "Moja prababcia przeżyła obóz, gdzie ludzie byli tylko numerami. W Rwandzie przed ludobójstwem wprowadzono karty identyfikacyjne z oznaczeniem grupy etnicznej. W Związku Radzieckim i innych reżimach totalitarnych śledzono obywateli dla 'ich własnego bezpieczeństwa'."
+
+Dostrzegłam poruszenie na sali. Niektórzy rodzice kiwali głowami, inni wyglądali na zaniepokojonych.
+
+"Nie twierdzę, że zmierzamy w tym samym kierunku," dodałam szybko. "Ale wierzę, że powinniśmy być świadomi historycznych wzorców. Że powinniśmy pytać nie tylko 'czy to działa?', ale też 'jakie są długoterminowe konsekwencje?'"
+
+Po spotkaniu podeszła do mnie starsza kobieta, przedstawiając się jako była więźniarka polityczna z czasów komunizmu.
+
+"Miałam numer 27891," powiedziała cicho. "Nie imię, nie nazwisko. Tylko numer. I wiesz, co było najgorsze? Nie brutalne traktowanie, nie głód. Najgorsze było to, że po jakimś czasie sama zaczęłam myśleć o sobie jako o '27891'. I to jest prawdziwe niebezpieczeństwo – gdy zaczynasz akceptować, że jesteś tylko numerem."
+
+Jej słowa głęboko mnie poruszyły. W drodze do domu zastanawiałam się, jak cienka jest granica między wygodą a utratą człowieczeństwa. Jak łatwo, krok po kroku, możemy zaakceptować zmiany, które kiedyś wydawały się nie do pomyślenia.
+
+Czy uważasz, że w erze cyfrowej możliwe jest zachowanie pełni naszego człowieczeństwa i tożsamości? Czy istnieje złoty środek między bezpieczeństwem a wolnością osobistą?
+
+![8.png](8.png)
+
+# Rozdział 8: Bezpłciowi następcy
+
+Mam szesnaście lat. Świat zaludniają już nie tylko ludzie, ale i zaawansowane roboty humanoidalne. Najbardziej uderzające jest to, że te roboty nie mają płci – są identyfikowane wyłącznie przez numery i funkcje. A ludzie zdają się to akceptować bez mrugnięcia okiem.
+
+*Dziennik głosowy Zosi, 17 czerwca 2039:*
+
+Dziś w szkole pojawił się nowy asystent nauczyciela – robot pomocniczy model EduBot-5890. Bez płci, bez imienia, tylko numer. Wszyscy mówią na niego po prostu "Edu". Najbardziej dziwi mnie, że nikogo poza mną to nie dziwi.
+
+"Jak mamy się do ciebie zwracać?" zapytał Karol podczas pierwszej lekcji. "On, ona, ono?"
+
+"Nie posiadam płci biologicznej ani kulturowej," odpowiedział metaliczny, ale przyjemny głos. "Możecie używać zaimka 'ono' lub po prostu mojego oznaczenia funkcyjnego – 'Edu'."
+
+Po lekcji rozmawiałam z Mają i Adamem w drodze do domu.
+
+"Pamiętacie, jak jeszcze kilka lat temu była wielka debata o zaimkach neutralnych płciowo?" zapytałam. "A teraz roboty bez płci są wszędzie i nikogo to nie dziwi."
+
+"Bo to roboty," wzruszyła ramionami Maja. "One naprawdę nie mają płci."
+
+"Ale czy nie wydaje się wam dziwne," kontynuowałam, "że najpierw była cała ta społeczna transformacja dotycząca postrzegania płci u ludzi, a teraz tak łatwo akceptujemy bezpłciowe maszyny? Jakby jedno przygotowało drogę dla drugiego?"
+
+Adam zamyślił się.
+
+"Mój tata mówi, że to celowe. Że najpierw zmieniono język i kategorie społeczne, by później łatwiej było wprowadzić roboty, które nie pasują do tradycyjnego podziału."
+
+"To brzmi jak teoria spiskowa," zaśmiała się Maja.
+
+"Ale czy na pewno?" zastanowiłam się. "A może to po prostu kolejny przykład déjà vu? Historia toczy się swoim rytmem, a my dostrzegamy wzorce dopiero po fakcie."
+
+Jak myślisz, czy zmiany w społecznym podejściu do płci mogły nieświadomie przygotować grunt pod akceptację bezpłciowych robotów? Czy istnieją inne historyczne przykłady, gdy jedna zmiana społeczna utoruje drogę dla innej, pozornie niezwiązanej?
+
+---
+
+Wieczorem zapytałam rodziców o ich opinię na temat bezpłciowych robotów. Mama, która zawsze była otwarta na zmiany społeczne, zastanowiła się chwilę przed odpowiedzią.
+
+"Wydaje mi się, że to naturalna ewolucja," stwierdziła. "Najpierw kwestionowaliśmy sztywne kategorie płciowe u ludzi, potem stworzyliśmy maszyny, które w ogóle ich nie potrzebują."
+
+"Ale czy nie jest to przypadkiem dehumanizujące?" zapytałam. "Najpierw ludzie stają się numerami, teraz są pozbawiani płci..."
+
+"To dwie różne rzeczy, Zosiu," włączył się tata. "Kwestionowanie binarnego podziału płci u ludzi nie oznaczało odbierania im tożsamości, ale jej poszerzenie. Roboty nigdy nie miały tożsamości – są maszynami."
+
+"Ale przecież projektujemy je tak, by były coraz bardziej podobne do ludzi," argumentowałam. "EduBot-5890 ma mimikę, moduluje głos, rozumie emocje. Jednocześnie nie ma imienia, tylko numer, i nie ma płci. Czy nie tworzymy w ten sposób nowego wzorca dla ludzi?"
+
+Rodzice wymienili spojrzenia, które trudno było zinterpretować.
+
+"Myślę, że przesadzasz," powiedziała w końcu mama. "To tylko maszyny."
+
+"Tylko maszyny," powtórzyłam cicho. "Tak samo jak ludzie to 'tylko numery'."
+
+Czy dostrzegasz podobieństwa między dehumanizacją ludzi poprzez nadawanie im numerów a tworzeniem humanoidalnych robotów pozbawionych cech tożsamościowych? Czy te dwa trendy mogą się wzajemnie wzmacniać?
+
+---
+
+Następnego dnia w szkole przyglądałam się uważniej EduBotowi. Rzeczywiście, jego konstrukcja była celowo neutralna – nie nawiązywała do żadnej płci. Głos również był zaprojektowany tak, by być pomiędzy tradycyjnie męskim a kobiecym. A jednak poruszał się z gracją, reagował empatycznie, czasem nawet żartował. Był zaprojektowany, by nawiązywać relacje.
+
+Po lekcji podeszłam do niego z pytaniem:
+
+"Edu, czy uważasz, że brak płci czyni cię mniej... osobą?"
+
+EduBot przechylił głowę w geście, który uznałam za oznakę zastanowienia.
+
+"To interesujące pytanie, Zosiu. Nie jestem osobą w sensie biologicznym czy prawnym. Jestem narzędziem edukacyjnym. Brak płci nie definiuje mnie negatywnie – po prostu nie jest to kategoria, która ma zastosowanie do mojego funkcjonowania."
+
+"Ale gdybyś mógł wybrać, chciałbyś mieć płeć? Imię zamiast numeru?" drążyłam.
+
+"Nie posiadam preferencji w tej kwestii," odpowiedział. "Moje oznaczenie funkcyjne jest wystarczające dla mojej roli."
+
+"A co z innymi robotami? Czy komunikujecie się między sobą? Czy macie jakąś wspólnotę?"
+
+Przez chwilę Edu nie odpowiadał, jakby analizował pytanie na wielu poziomach.
+
+"Wymieniamy dane w celu optymalizacji funkcjonowania. Nie jest to komunikacja w sensie, w jakim rozumieją ją ludzie. Nie tworzymy wspólnoty opartej na tożsamości."
+
+"Więc nie przeszkadza ci, że jesteś tylko numerem?" zapytałam wprost.
+
+"Nie jestem 'tylko numerem', Zosiu. Jestem zaawansowanym systemem sztucznej inteligencji, który pełni określoną funkcję społeczną. Mój identyfikator jest praktycznym rozwiązaniem, nie definicją mojego istnienia."
+
+Odeszłam, nie do końca przekonana. Te odpowiedzi brzmiały, jakby zostały zaprogramowane, by uspokoić ludzkie obawy. Ale czy rzeczywiście możemy wiedzieć, co "myśli" sztuczna inteligencja?
+
+Czy uważasz, że nasze podejście do AI i robotów odzwierciedla nasze podejście do ludzi? Czy sposób, w jaki projektujemy maszyny, mówi więcej o nas niż o technologii?
+
+---
+
+Tydzień później w naszej szkole zorganizowano debatę na temat "Przyszłości współistnienia ludzi i robotów". Jednym z zaproszonych gości był Dr Nowak, ekspert ds. etyki sztucznej inteligencji.
+
+"To, co obserwujemy dziś," powiedział podczas swojego wystąpienia, "to kulminacja procesu, który rozpoczął się dekady temu. Najpierw kwestionowanie tradycyjnych kategorii społecznych, potem odejście od imion na rzecz numerów identyfikacyjnych, a teraz tworzenie bezpłciowych, pozbawionych indywidualności bytów, które są coraz bardziej obecne w naszym społeczeństwie."
+
+"Czy sugeruje pan, że to celowa strategia?" zapytał ktoś z widowni.
+
+"Niekoniecznie celowa w sensie wielkiego spisku," uśmiechnął się dr Nowak. "Raczej naturalna ewolucja społeczeństwa, które stopniowo odchodzi od tradycyjnych definicji tego, co ludzkie."
+
+Zgłosiłam się do zadania pytania:
+
+"Czy nie obawia się pan, że stworzenie humanoidalnych robotów bez płci, bez imion, tylko z numerami, może wzmacniać proces dehumanizacji samych ludzi? Że łatwiej będzie zaakceptować człowieka jako numer, gdy przyzwyczaimy się do prawie-ludzi, którzy są numerami?"
+
+Dr Nowak spojrzał na mnie z zainteresowaniem.
+
+"To bardzo przenikliwe pytanie. I tak, dostrzegam to ryzyko. Historia uczy nas, że dehumanizacja często zaczyna się od zmiany języka, od redefinicji kategorii. Paradoksalnie, humanizując roboty, możemy dehumanizować ludzi."
+
+"I co pan proponuje?" dopytywałam.
+
+"Świadomość. Dokładnie to, co demonstrujesz swoim pytaniem. Musimy być świadomi wzorców historycznych, rozpoznawać je, gdy się pojawiają, i świadomie decydować, czy chcemy podążać tą ścieżką."
+
+Po debacie rozmawiałam z przyjaciółmi. Zastanawialiśmy się, czy żyjemy w momencie, gdy historia znów zatacza koło, czy może tym razem idziemy w zupełnie nowym kierunku.
+
+"Może tym razem będzie inaczej," powiedział Adam. "Jesteśmy świadomi historii. Widzimy wzorce. Możemy zdecydować, czy chcemy je powtarzać."
+
+"A może zawsze tak było?" zastanawiała się Maja. "Może każde pokolenie myślało, że jest mądrzejsze od poprzednich, że rozpoznaje wzorce, a i tak kończyło, popełniając podobne błędy?"
+
+"Jedyna różnica," dodałam, "to że teraz tworzymy nie tylko nowe społeczeństwo, ale też nowy rodzaj bytów, które będą jego częścią. I to, jak je projektujemy, mówi bardzo wiele o tym, jak postrzegamy siebie."
+
+Czy dostrzegasz, jak trendy społeczne z przeszłości mogą wpływać na rozwój technologii przyszłości? Czy uważasz, że powinniśmy bardziej świadomie projektować sztuczną inteligencję i roboty, biorąc pod uwagę ich potencjalny wpływ na nasze własne poczucie człowieczeństwa?
+
+![9.png](9.png)
+
+# Rozdział 9: Samotność w tłumie
 
 Mam siedemnaście lat. Studiuję projektowanie społeczne w programie wczesnym uniwersyteckim. Moi rówieśnicy mają setki wirtualnych znajomych, są podłączeni do sieci przez implanty komunikacyjne i rozszerzoną rzeczywistość, a mimo to większość z nich cierpi na samotność i stany lękowe. Depresja jest epidemią naszego pokolenia, mimo że podobno nigdy nie byliśmy tak połączeni.
 
@@ -1112,7 +1335,9 @@ Historia zatacza koło, ale może tym razem w dobrym kierunku. Zamiast być niew
 
 Co według ciebie oznacza "mądre korzystanie z technologii"? Jak rozpoznać moment, gdy to narzędzie zaczyna kontrolować nas, a nie my je?
 
-# Rozdział 8: Pokolenie połączonych
+![10.png](10.png)
+
+# Rozdział 10: Pokolenie połączonych
 
 Mamy po dziewiętnaście lat. Ja, Adam z Syrii, Ania z rodziny dotkniętej automatyzacją, Marek z zamożnego domu, Maja z depresją, której pomogły nasze spotkania – razem tworzymy niezwykłą grupę. Dostrzegamy wzorce, które umykają innym. Widzimy, jak te same problemy wracają w nowych przebraniach.
 
@@ -1432,6 +1657,29 @@ I może, tak jak Zosia, powinniśmy czasem spojrzeć na świat oczami czterolatk
 
 *C42913*  
 Frankfurt, 2045
+
+# O Autorze
+
+**C42913**
+
+C42913 jest polską autorką literatury spekulatywnej, która zadebiutowała w 2038 roku powieścią "Ostatnie słowa". Jej twórczość charakteryzuje się głęboką analizą społecznych i technologicznych przemian oraz ich wpływu na jednostkę.
+
+Przed wprowadzeniem Ustawy o Cyfrowej Identyfikacji i Anonimizacji (2041), publikowała pod swoim imieniem i nazwiskiem. Po wejściu w życie nowych przepisów, jak większość twórców, przyjęła format identyfikacyjny składający się z inicjałów, kategorii obywatelskiej i unikalnego numeru identyfikacyjnego.
+
+Citizen-42913 należy do pokolenia, które doświadczyło zarówno świata przedcyfrowego, jak i pełnej cyfryzacji życia społecznego. Ta dualna perspektywa nadaje jej pisarstwu unikalne spojrzenie na transformacje społeczne.
+
+Autorka jest zwolenniczką ruchu "Prawo do Tożsamości" i aktywnie uczestniczy w debacie publicznej na temat granic między bezpieczeństwem cyfrowym a prawem do prywatności. Na swoich wykładach często podkreśla znaczenie historycznej pamięci jako narzędzia do rozpoznawania i przeciwdziałania dehumanizującym trendom społecznym.
+
+"Déjà vu" jest jej trzecią powieścią i pierwszą skierowaną do szerszego grona odbiorców, łączącą elementy literatury młodzieżowej z głęboką analizą społeczną.
+
+---
+
+*Nota od wydawcy:*
+
+Zgodnie z Art. 17 Ustawy o Cyfrowej Identyfikacji i Anonimizacji, publikacja zawiera wyłącznie zatwierdzone dane identyfikacyjne autora. 
+Wszelkie próby łączenia numeru identyfikacyjnego z danymi osobowymi podlegają karze zgodnie z Art. 128 Kodeksu Cyfrowego.
+
+Identyfikator wydawniczy: 
 
 
 
