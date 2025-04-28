@@ -3,8 +3,6 @@
 
 Autor: **C42913**
 
----
-
 Autonomia: Brandenburgia
 
 <style>
