@@ -12,4 +12,4 @@
 + [1 ](http://github.com/1)
 + [1 # Epilog: Nowe początki (2045)](http://github.com/1)
 + [1 # Posłowie](http://github.com/1)
-+ [1 ## Okładka książki zatytułowanej "Deja-vu":](http://github.com/1)
++ [#1 ](http://github.com/#1)

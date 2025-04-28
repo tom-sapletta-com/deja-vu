@@ -3,7 +3,7 @@
 
 # Deja-vu
 
-Tom Sapletta
+C42913
 
 ---
 
@@ -1158,11 +1158,6 @@ Bo może właśnie tego najbardziej potrzebujemy – przypomnienia, że nie jest
 
 I może, tak jak Zosia, powinniśmy czasem spojrzeć na świat oczami czterolatka i zapytać: "Dlaczego?"
 
-## Okładka książki zatytułowanej "Deja-vu":
 
----
 
-tytuł: Deja-vu
-autor: C42913
-miejsce i czas: Frankfurt 2025
 
