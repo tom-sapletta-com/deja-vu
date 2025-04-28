@@ -1337,7 +1337,6 @@ Historia zatacza koło, ale może tym razem w dobrym kierunku. Zamiast być niew
 
 Co według ciebie oznacza "mądre korzystanie z technologii"? Jak rozpoznać moment, gdy to narzędzie zaczyna kontrolować nas, a nie my je?
 
-
 # Rozdział 10: Europa Autonomii
 
 Mam osiemnaście lat. Świat, który poznałam jako dziecko, już nie istnieje. Trzy lata temu zakończył się proces tzw. Wielkiej Refederalizacji. Europa, jaką znali moi rodzice i dziadkowie, z granicami państw i paszportami, przeszła do historii. Teraz żyjemy w Unii Obszarów Autonomicznych.
@@ -1462,9 +1461,9 @@ Zastanawiam się, gdzie na tej spirali historii znajdujemy się teraz. Czy Unia 
 
 A ty, gdzie widziałbyś siebie w takiej Europie Autonomii? Czy identyfikowałbyś się bardziej z lokalnym regionem, całą federacją europejską, czy może z czymś zupełnie innym?
 
-![10.png](10.png)
-
 # Rozdział 11: Pokolenie połączonych
+
+![10.png](10.png)
 
 Mamy po dziewiętnaście lat. Ja, Adam z Syrii, Ania z rodziny dotkniętej automatyzacją, Marek z zamożnego domu, Maja z depresją, której pomogły nasze spotkania – razem tworzymy niezwykłą grupę. Dostrzegamy wzorce, które umykają innym. Widzimy, jak te same problemy wracają w nowych przebraniach.
 
