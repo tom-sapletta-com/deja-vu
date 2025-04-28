@@ -40,4 +40,4 @@
 *Refleksje C42913 na temat powieści i jej motywów.*
 
 ### O Autorze
-*Informacje o C42913 (dawniej Ewie Kamińskiej) i kontekście powstania powieści.*
+*Informacje o C42913 i kontekście powstania powieści.*

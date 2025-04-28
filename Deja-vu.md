@@ -122,7 +122,7 @@ body > h2:first-of-type {
 *Refleksje C42913 na temat powieści i jej motywów.*
 
 ### O Autorze
-*Informacje o C42913 (dawniej Ewie Kamińskiej) i kontekście powstania powieści.*
+*Informacje o C42913 i kontekście powstania powieści.*
 
 # Prolog: Pierwsze wspomnienie (2027-2029)
 
