@@ -4,7 +4,7 @@
 **C42913**
 *(dawniej znana jako C42913)*
 
-E.K. Citizen-42913 jest polską autorką literatury spekulatywnej, która zadebiutowała w 2038 roku powieścią "Ostatnie słowa". Jej twórczość charakteryzuje się głęboką analizą społecznych i technologicznych przemian oraz ich wpływu na jednostkę.
+C42913 jest polską autorką literatury spekulatywnej, która zadebiutowała w 2038 roku powieścią "Ostatnie słowa". Jej twórczość charakteryzuje się głęboką analizą społecznych i technologicznych przemian oraz ich wpływu na jednostkę.
 
 Przed wprowadzeniem Ustawy o Cyfrowej Identyfikacji i Anonimizacji (2041), publikowała pod swoim imieniem i nazwiskiem. Po wejściu w życie nowych przepisów, jak większość twórców, przyjęła format identyfikacyjny składający się z inicjałów, kategorii obywatelskiej i unikalnego numeru identyfikacyjnego.
 

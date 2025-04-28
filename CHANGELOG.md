@@ -2,6 +2,30 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.1.4] - 2025-04-28
+
+### Added
+- Changes in 1/1.png
+- Changes in 1/10.md
+- Changes in 1/11.md
+- Changes in 1/11.png
+- Changes in 1/12.png
+- Changes in 1/19.png
+- Changes in 1/2.png
+- Changes in 1/3.png
+- Changes in 1/4.png
+- Changes in 1/5.png
+- Changes in 1/6.png
+- Changes in 1/7.png
+- Changes in 1/8.png
+- Changes in 1/9.png
+- Changes in 1/Poslowie.md
+- Changes in 1/Spis.md
+
+### Changed
+- Changes in 1/8.md
+- Changes in 1/9.md
+
 ## [0.1.3] - 2025-04-28
 
 ## [0.1.2] - 2025-04-28

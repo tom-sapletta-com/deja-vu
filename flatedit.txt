@@ -1,5 +1,6 @@
 1/0.md
 md2pdf/style.md
+1/Spis.md
 1/Prolog.md
 1/1.md
 1/2.md
@@ -10,5 +11,5 @@ md2pdf/style.md
 1/7.md
 1/8.md
 1/Epilog.md
-1/poslowie.md
+1/Poslowie.md
 #1/okladka.md
