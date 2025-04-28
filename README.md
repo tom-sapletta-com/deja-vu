@@ -5,6 +5,8 @@ Autor: **C42913**
 
 Autonomia: Brandenburgia
 
+---
+
 <style>
 /* CSS do umieszczenia na początku pliku Markdown */
 
