@@ -289,9 +289,10 @@ Spojrzałam na nasze drony latające w powietrzu, tworząc wspólnie obraz, któ
 
 Czy kiedyś doświadczyłeś radości z tworzenia czegoś wspólnie? Czegoś, czego nigdy nie mógłbyś osiągnąć sam? Jak się wtedy czułeś?
 
-![2.png](2.png)
 
 # Rozdział 2: Zimno w domu cioci Ani
+
+![2.png](2.png)
 
 U cioci Ani zawsze jest zimno. Muszę nosić sweterek, nawet gdy siedzę w domu. Światła są przyciemnione, a ciocia ciągle patrzy na liczniki na ścianie, które świecą się na czerwono. Mam już siedem lat i zaczynam rozumieć, że czerwone liczby nie oznaczają nic dobrego.
 
@@ -407,9 +408,10 @@ Ciocia znowu się uśmiecha, a jej mieszkanie jest ciepłe. Zamiast przyciemnion
 
 A ty, gdzie szukasz ciepła w zimne dni? W technologii czy w ludziach wokół ciebie?
 
-![3.png](3.png)
 
 # Rozdział 3: Dlaczego pan robot dostał pracę taty?
+
+![3.png](3.png)
 
 Tata stracił pracę. Zamiast niego w fabryce pracuje "zautomatyzowana linia produkcyjna" i roboty z zaawansowaną sztuczną inteligencją. Mam już osiem lat i coraz lepiej rozumiem, co dzieje się wokół mnie. Tata całymi dniami siedzi przy komputerze i szuka nowej pracy, ale wszędzie wymagają innych umiejętności.
 
@@ -635,9 +637,9 @@ Tata znów ma iskierkę w oczach, gdy mówi o przyszłości. Nie jest to ta sama
 
 A ty, jak reagujesz na zmiany w swoim życiu? Widzisz w nich zagrożenie czy szansę? I co pomaga ci znaleźć równowagę pomiędzy tymi dwoma perspektywami?
 
-![4.png](4.png)
-
 # Rozdział 4: Nowi przyjaciele z daleka
+
+![4.png](4.png)
 
 W mojej klasie pojawiły się nowe dzieci. Mają ciemniejszą skórę i mówią inaczej. Niektórzy rodzice są zdenerwowani. Słyszę jak mówią, że "zabierają nam mieszkania" i "odbierają pracę". Mam dziewięć lat i zaczynam dostrzegać, jak dziwnie dorośli podchodzą do nowych osób.
 
