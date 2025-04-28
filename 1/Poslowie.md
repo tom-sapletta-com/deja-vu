@@ -1,6 +1,7 @@
 # Posłowie
 
-Dziękuję, że zdecydowałeś się towarzyszyć Zosi w jej podróży przez zmieniający się świat. 
+Drogi Czytelniku,
+dziękuję, że zdecydowałeś się towarzyszyć Zosi w jej podróży przez zmieniający się świat. 
 "Déjà vu" nie jest powieścią o przyszłości - to opowieść o teraźniejszości widzianej oczami dziecka, które nie nauczyło się jeszcze akceptować absurdów jako "normalności".
 
 Pisząc tę książkę, chciałem skorzystać z unikalnej perspektywy, jaką oferuje dziecięce spojrzenie. Dzieci mają dar zadawania fundamentalnych pytań, które dorośli przestali zadawać. 
