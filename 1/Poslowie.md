@@ -32,5 +32,5 @@ Bo może właśnie tego najbardziej potrzebujemy – przypomnienia, że nie jest
 
 I może, tak jak Zosia, powinniśmy czasem spojrzeć na świat oczami czterolatka i zapytać: "Dlaczego?"
 
-*C42913*  
-Frankfurt, 2045
+*Tom Sapletta* (Jeszcze, ale może już za kilka lat:) *C42913*  
+Frankfurt, 2025
