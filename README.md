@@ -1327,7 +1327,7 @@ Kilka osób w klasie spojrzało na mnie zaskoczonych. Takie pytania rzadko są z
 
 Po lekcji rozmawialiśmy o tym z grupą przyjaciół. Adam podzielił się historią swojego wujka, któremu zablokowano możliwość dokonywania transakcji powyżej 100 kredytów dziennie po tym, jak publicznie skrytykował plan transformacji energetycznej.
 
-"To było 'tymczasowe ograniczenie ze względu na potencjalne ryzyko społeczne'," cytował Adam oficjalne uzasadnienie. "Trwa już trzeci rok."
+"To było 'tymczasowe ograniczenie ze względu na potencjalne ryzyko społeczne'," cytował Adam oficjalne uzasadnienie. "Trwa już ponad rok."
 
 "A pamiętacie sprawę Banków Czasu?" przypomniała Ania. "Zanim zostały zalegalizowane jako 'eksperymentalny program społeczny', próbowano je całkowicie zablokować jako 'nieautoryzowany system płatniczy'."
 
