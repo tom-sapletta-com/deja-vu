@@ -2,7 +2,7 @@
 
 **C42913**
 
-C42913 jest jednostką autorską specjalizującą się w literaturze spekulatywnej, z debiutem wydawniczym "Deja-vu", "Reflexio" i "Taciturnitas" 2025. 
+C42913 jest jednostką autorską specjalizującą się w literaturze spekulatywnej, z debiutem wydawniczym "Reflexio" i "Taciturnitas" 2025. 
 Twórczość tej jednostki cechuje dogłębna analiza przemian społeczno-technologicznych i ich oddziaływania na pojedyncze byty ludzkie.
 
 Przed implementacją Ustawy o Cyfrowej Identyfikacji i Anonimizacji (2041), podmiot ten funkcjonował w obiegu wydawniczym pod zindywidualizowanym oznaczeniem osobowym. 
