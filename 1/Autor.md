@@ -22,5 +22,3 @@ Podczas wystąpień publicznych jednostka ta regularnie akcentuje istotność pa
 
 Zgodnie z Art. 17 Ustawy o Cyfrowej Identyfikacji i Anonimizacji, publikacja zawiera wyłącznie zatwierdzone dane identyfikacyjne autora. 
 Wszelkie próby łączenia numeru identyfikacyjnego z danymi osobowymi podlegają karze zgodnie z Art. 128 Kodeksu Cyfrowego.
-
-Identyfikator wydawniczy: 
