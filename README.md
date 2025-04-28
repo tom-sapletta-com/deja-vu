@@ -1035,19 +1035,24 @@ Czy uważasz, że lepiej jest zmieniać system od wewnątrz czy budować alterna
 
 # Rozdział 7. Jak straciliśmy własny rynek
 
-Mam czternaście i pół roku. Dopiero zaczynam rozumieć procesy ekonomiczne, o których dorośli rozmawiają przy stole. Transformacja energetyczna, o której tyle słyszeliśmy, okazała się czymś więcej niż tylko zmianą źródeł energii. Doprowadziła do głębokiej restrukturyzacji całej gospodarki – i nie wszyscy na tym skorzystali.
+Mam czternaście i pół roku. Dopiero zaczynam rozumieć procesy ekonomiczne, o których dorośli rozmawiają przy stole. Transformacja energetyczna, o której tyle słyszeliśmy, okazała się czymś więcej niż tylko zmianą źródeł energii. 
+Doprowadziła do głębokiej restrukturyzacji całej gospodarki – i nie wszyscy na tym skorzystali.
 
 *Dziennik głosowy Zosi, 23 października 2037:*
 
-Dziś w szkole mieliśmy lekcję o gospodarce globalnej. Pan Kowalski, nasz nauczyciel ekonomii, powiedział coś, co mnie zszokowało: "Europa, kiedyś centrum światowego handlu, stała się peryferiami zdominowanymi przez azjatyckie produkty i amerykańskie usługi."
+Dziś w szkole mieliśmy lekcję o gospodarce globalnej. Pan Kowalski, nasz nauczyciel ekonomii, powiedział coś, co mnie zszokowało: 
+"Europa, kiedyś centrum światowego handlu, stała się peryferiami zdominowanymi przez azjatyckie produkty i amerykańskie usługi."
 
 Gdy zapytałam, co to dokładnie znaczy, spojrzał na mnie zamyślony.
 
-"To znaczy, Zosiu, że coraz mniej rzeczy, których używamy, jest projektowanych i produkowanych w Europie. Nasze telefony, komputery, samochody elektryczne, roboty domowe – większość z nich pochodzi z Azji. A kiedy korzystasz z internetu, większość usług, platform i oprogramowania pochodzi z Ameryki."
+"To znaczy, Zosiu, że coraz mniej rzeczy, których używamy, jest projektowanych i produkowanych w Europie. 
+Nasze telefony, komputery, samochody elektryczne, roboty domowe – większość z nich pochodzi z Azji. 
+A kiedy korzystasz z internetu, większość usług, platform i oprogramowania pochodzi z Ameryki."
 
 Po lekcji zapytałam go, jak do tego doszło. Czy nie byliśmy kiedyś potęgą gospodarczą?
 
-"To złożony proces," odpowiedział, spoglądając przez okno. "Zaczęło się od pozytywnych haseł – globalizacja, wolny handel, zielona transformacja. Nikt nie negował tych wartości. Ale podczas gdy Europa skupiła się na regulacjach i standardach, inne części świata skupiły się na produkcji i innowacjach."
+"To złożony proces," odpowiedział, spoglądając przez okno. "Zaczęło się od pozytywnych haseł – globalizacja, wolny handel, zielona transformacja. 
+Nikt nie negował tych wartości. Ale podczas gdy Europa skupiła się na regulacjach i standardach, inne części świata skupiły się na produkcji i innowacjach."
 
 "Czy nie mogliśmy robić obu tych rzeczy?" zapytałam.
 
@@ -1063,7 +1068,8 @@ Wieczorem pokazałam tacie moje notatki z lekcji ekonomii. Pracuje w firmie logi
 
 "Portach?" zdziwiłam się. "Co mają porty wspólnego z monopolami?"
 
-"Wszystko," odpowiedział tata. "W latach 20-tych większość europejskich portów została sprzedana lub wydzierżawiona długoterminowo zagranicznym firmom. Głównie azjatyckim. To był cichy proces, o którym mało kto mówił głośno."
+"Wszystko," odpowiedział tata. "W latach 20-tych większość europejskich portów została sprzedana lub wydzierżawiona długoterminowo zagranicznym firmom. 
+Głównie azjatyckim. To był cichy proces, o którym mało kto mówił głośno."
 
 "Ale dlaczego to takie ważne?"
 
@@ -1073,11 +1079,14 @@ Tata wyświetlił mapę na ścianie. Pokazywała główne europejskie porty – 
 
 "Ale dlaczego Europa sprzedała swoje porty?" Nie mogłam zrozumieć tej decyzji.
 
-"Krótkoterminowe myślenie," westchnął tata. "Po pandemii COVID i kryzysie energetycznym, wiele europejskich rządów i samorządów potrzebowało szybkiego zastrzyku gotówki. Sprzedaż udziałów w portach wydawała się dobrym rozwiązaniem."
+"Krótkoterminowe myślenie," westchnął tata. 
+"Po pandemii COVID i kryzysie energetycznym, wiele europejskich rządów i samorządów potrzebowało szybkiego zastrzyku gotówki. 
+Sprzedaż udziałów w portach wydawała się dobrym rozwiązaniem."
 
 "I nikt nie pomyślał o długofalowych konsekwencjach?"
 
-"Niektórzy ostrzegali. Ale zostali zakrzyczani jako protekcjoniści i nacjonaliści. 'Wolny rynek rozwiąże wszystkie problemy' – to było popularne hasło."
+"Niektórzy ostrzegali. Ale zostali zakrzyczani jako protekcjoniści i nacjonaliści. 
+'Wolny rynek rozwiąże wszystkie problemy' – to było popularne hasło."
 
 "Déjà vu," powiedziałam cicho, przypominając sobie słowa dziadka.
 
