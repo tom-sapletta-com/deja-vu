@@ -1,0 +1,11 @@
+md2pdf
+openai-whisper
+setuptools-rust
+torch
+TTS
+dotenv
+weasyprint
+markdown
+reportlab
+html2text
+Pillow
