@@ -3,11 +3,11 @@
 
 ![okladka.png](okladka.png)
 
-Autor: C42913
+Autor: **C42913**
 
 ---
 
-*Frankfurt, 2025*
+Autonomia: Brandenburgia
 
 <style>
 /* CSS do umieszczenia na początku pliku Markdown */
